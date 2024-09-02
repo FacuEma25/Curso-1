@@ -4,3 +4,4 @@
 
 - Instalaciones de extensiones
 - Introduccion a MarkDown
+- Clase en vivo
