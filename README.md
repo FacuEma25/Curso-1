@@ -9,3 +9,6 @@
 - Instalaciones de extensiones
 - Introduccion a MarkDown
 - Clase en vivo
+
+# Clase 4 - INTRODUCCION A HTML
+- (REPASO) Crear un repositorio (git y github)
