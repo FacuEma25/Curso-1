@@ -12,3 +12,7 @@
 
 # Clase 4 - INTRODUCCION A HTML
 - (REPASO) Crear un repositorio (git y github)
+
+# Clase 5 - Formularios, listas, tablas e introduccion a semantica
+
+# Clase 6 - SEMANTICA Y MAQUETACION
