@@ -16,3 +16,5 @@
 # Clase 5 - Formularios, listas, tablas e introduccion a semantica
 
 # Clase 6 - SEMANTICA Y MAQUETACION
+
+# Clase 7 - CSS (Introducción)
