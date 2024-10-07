@@ -9,7 +9,30 @@ body{
     background-color: gray;
 }
 
-.Clase-1{
+.clase-1{
     border: 2px solid blue;
-    /* margin: (sentido horario) ⬆*/ 
+    /* margin: (sentido horario) ⬆➡⬇⬅*/ 
+    margin: 10px 25px 25px 8px;
+    /* margin-top: ; */
+    /* margin-right: ; */
+    /* margin-bottom: ; */
+    /* margin-left: ; */
+
+     /* pading: Es un relleno (sentido horario) ⬆➡⬇⬅*/ 
+     padding: 10px 25px 25px 8px;
+     /* pading-top: ; */
+    /* pading-right: ; */
+    /* pading-bottom: ; */
+    /* pading-left: ; */
+}
+
+.clase-2{
+    text-align: center;
+}
+
+.clase-3{
+    text-decoration: none;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
 }
