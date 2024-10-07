@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS introducción</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <style>
+        .fondo-verde {
+            background-color: aqua;
+            color: black;
+        }
+    </style>
+    <!--La opcion menos recomendada-->
+    <h1 style="color: red; background-color: beige;">HOLA CSS</h1>
+
+    <!--Tampoco es recomedada-->
+    <h2 class="fondo-verde">Mas estilos</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur1.</p>
+    <p>Lorem ipsum dolor sit amet consectetur2.</p> 
+    <p>Lorem ipsum dolor sit amet consectetur3.</p>
+    <p class="letra-grande">Lorem ipsum dolor sit amet.</p>
+
+    <!--DIMINUTIVOS-->
+    <!--Si coloco ".contenedor", me crea un div con la clase contenedor-->
+    <div class="contenedor"></div>
+    <!--Si coloco "p.parrafo", me crea un Paraffo con la clase parrafo-->
+    <p class="parrafo"></p>
+    <!--Si coloco "h3#titulo-importante", me crea un ID con el id titulo-importante-->
+    <h3 id="titulo-importante">titulo-importante</h3>
+
+    <div class="contenedor">
+        <!-- Coloque div*9{$}-->
+        <!-- Para seleccionar varios espacios de diferentes filas es con "ALT + Click Izq"-->
+        <div class="caja">1</div>
+        <div class="caja">2</div>
+        <div id="caja-3" class="caja oferta">3</div>
+        <div class="caja">4</div>
+        <div class="caja">5</div>
+        <div class="caja">6</div>
+        <div class="caja">7</div>
+        <div class="caja">8</div>
+        <div class="caja">9</div>
+    </div>
+
+
+</body>
+</html>
