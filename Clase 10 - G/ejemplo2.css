@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+h1 {
+    /** Display -> Controlar la dispocion de los elementos **/
+    /* display-> inline y block */
+    /* display: inline; */
+    background-color: blueviolet;
+    color: white;
+
+}
+
+aside {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    /* display: block; */
+    background-color: green;
+    color: white;
+}

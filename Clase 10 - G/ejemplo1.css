@@ -1,0 +1,28 @@
+.caja {
+    width: 300px;
+    /* Definimos un ancho */
+    margin: 0 auto;
+    /* Esto centrará el div horizontalmente */
+    background-color: #ff0000;
+    /* Solo para ver el div */
+    padding: 20px;
+    text-align: center;
+    }
+
+    .boton {
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+        }
+        .grande {
+        font-size: 20px;
+        padding: 15px 30px;
+        }
+        .redondeado {
+        border-radius: 15px;
+        }
+        .azul {
+        background-color: blue;
+        color: white;
+        }
