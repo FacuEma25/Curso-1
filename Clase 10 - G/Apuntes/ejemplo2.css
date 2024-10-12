@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+    padding: 20px 40px;
     /** Display -> Controlar la dispocion de los elementos **/
     /* display-> inline y block */
     /* display: inline; */
@@ -30,7 +31,8 @@ h1 {
 }
 
 h1 {
-    padding: 20px 40px;
+    margin: 20px 40px;
+    
 }
 
 aside {
