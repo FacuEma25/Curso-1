@@ -10,21 +10,45 @@
 .caja {
     width: 300px;
     height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .uno {
     background-color: red;
+    /* width: 600px;
+    flex-grow: 2; */
 }
 
 .dos{
     background-color: blue;
+    /* width: 600px; */
 }
 
 .tres{
     background-color: green;
 }
 
+.cuatro{
+    background-color: brown;
+}
+
+.cinco {
+    background-color: orange;
+}
+
+.seis{
+    background-color: rosybrown;
+}
+
 .container-flexible{
+    height: 900px;
+    background-color: gainsboro;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    flex-wrap: wrap;
 }
