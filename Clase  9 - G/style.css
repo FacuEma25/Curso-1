@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+li{
+    list-style: none;
+}
+
+header, a{
+    background-color: violet;
+}
+
+header{
+    padding: 30px;
+}
+
+main{
+    background-color: green;
+    padding: 60px;
+}
+
+aside{
+    width: 100px;
+    padding: 20px 0;
+    border: solid crimson 2px;
+    border-radius: 10px 20px;
+}
+
+footer{
+    padding: 50px;
+    background-color: blue;
+}

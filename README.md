@@ -18,3 +18,7 @@
 # Clase 6 - SEMANTICA Y MAQUETACION
 
 # Clase 7 - CSS (Introducción)
+
+# Clase 8 - CSS (Textos, imagenes y fondos)
+
+# Clase 9 - MODEL BOX
