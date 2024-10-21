@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(32, 31, 31);
+}
+.grid-contenedor{
+    background-color: rgb(212, 212, 212);
+
+    display: grid;
+    /* FILAS */
+    grid-template-rows: 300px 300px 300px ;
+    /* COMUMNAS */
+    grid-template-columns: 300px 300px 300px;
+
+    /* AREA */
+    grid-template-areas:
+    "one two three"
+    "four five six"
+    "seven eigth nine";
+}
+
+.grid-hijo{
+    width: 200px;
+    height: 200px;
+    color: white;
+    font-size: 50px;
+}
+
+.uno {
+    background-color: red;
+    grid-area: nine;
+}
+
+.dos {
+    background-color: blue;
+}
+
+.tres {
+    background-color: green;
+}
+
+.cuatro {
+    background-color: pink;
+    color: black;
+}
+
+.cinco {
+    background-color: orange;
+    color: black;
+}
+
+.seis {
+    background-color: purple;
+}
+
+.siete {
+    background-color: gray;
+    color: black;
+}
+
+.ocho {
+    background-color: black;
+}
+
+.nueve {
+    background-color: yellow;
+    color: black;
+}
