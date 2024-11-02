@@ -1,0 +1,18 @@
+@keyframes mover {
+    0% {
+    transform: translateX(0);
+    }
+    50% {
+    transform: translateX(100px);
+    }
+    100% {
+    transform: translateX(0);
+    }
+    }
+    div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: mover;
+    animation-duration: 2s;
+    }
